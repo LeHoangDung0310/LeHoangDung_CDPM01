@@ -1,3 +1,7 @@
+## [v1.0.1] - Fixes and Improvements
+
+- Removed addition feature (ADD).
+
 ## v1.0.0
 
 - Implement Addition (ADD) [PR#1](https://github.com/LeHoangDung0310/LeHoangDung_CDPM01/pull/1)
