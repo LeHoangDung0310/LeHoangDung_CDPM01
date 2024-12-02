@@ -1,4 +1,8 @@
 ADD
 SUB
 MUL
+<<<<<<< HEAD
 MOD
+=======
+DIV
+>>>>>>> 8ad8c9a (Implement Div function)
